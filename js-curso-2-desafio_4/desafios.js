@@ -1,0 +1,11 @@
+let listaGenerica = [];
+let linguagensDeProgramacao = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
+console.log(linguagensDeProgramacao);
+linguagensDeProgramacao.push('Java', 'Ruby', 'GoLang');
+console.log(linguagensDeProgramacao);
+let frutas = ['Maçã', 'Banana', 'Limão'];
+console.log(frutas[0]);
+let jogadoresLiverpool = ['Salah', 'Diaz', 'Mac Allister'];
+console.log(jogadoresLiverpool[1]);
+let timesPremierLeague = ['Liverpool', 'Man City', 'Chelsea'];
+console.log(timesPremierLeague[timesPremierLeague.length - 1]);
